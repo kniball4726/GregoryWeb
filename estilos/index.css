@@ -4,3 +4,9 @@
     font-style: normal;
 }
 
+#principal {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border: solid 3px white;
+}
